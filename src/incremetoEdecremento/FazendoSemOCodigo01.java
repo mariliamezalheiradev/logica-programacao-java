@@ -1,0 +1,10 @@
+package incremetoEdecremento;
+
+public class FazendoSemOCodigo01 {
+    public static void main(String[] args) {
+        int contador = 0;
+
+        contador++;
+        System.out.println(contador);
+    }
+}
